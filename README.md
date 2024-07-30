@@ -50,7 +50,7 @@
 
 ## 📈 GitHub Stats
 
-![TGaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=TGaDev&show_icons=true&theme=radical)
+![TGaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=TGaDev203&show_icons=true&theme=radical)
 
 ## 🚀 Future Goals
 
