@@ -46,7 +46,7 @@
 
 - **Email**: hoangthuychimte@gmail.com
 - **Facebook**: [NguyenVanTriGDev](https://facebook.com/NguyenVanTriGDev)
-- **Instagram**: [\_trnv1](https://instagram.com/_trnv1)
+- **Instagram**: [\_trnv1](https://instagram.com/__ngt196_)
 
 ## 📈 GitHub Stats
 
