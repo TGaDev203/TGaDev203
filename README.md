@@ -5,7 +5,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Nguyen%20Van%20Tri-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nguyen.van.tri.935503/)
 [![Instagram](https://img.shields.io/badge/Instagram-Nguyen%20Van%20Tri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ngt196_)
 
-👋 Hi There! I’m **Nguyễn Văn Trí**, known as **TGaDev** on GitHub. I’m passionate about game development and currently working with Unity. My goal is to become a professional game developer.
+👋 Hi There! I’m **Nguyễn Văn Trí**. I’m passionate about game development and currently working with Unity. My goal is to become a professional game developer.
 
 ## 🛠 Skills
 
