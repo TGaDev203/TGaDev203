@@ -2,8 +2,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-TGaDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TGaDev203)
 [![GitLab](https://img.shields.io/badge/GitLab-TGaDev-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/TGaDev203)
-[![Facebook](https://img.shields.io/badge/Facebook-NguyenVanTri-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nguyen.van.tri.935503/)
-[![Instagram](https://img.shields.io/badge/Instagram-_trnv1-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_trnv1)
+[![Facebook](https://img.shields.io/badge/Facebook-NguyenVanTri-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](facebook.com/nguyen.van.tri.935503/)
+[![Instagram](https://img.shields.io/badge/Instagram-NguyenVanTri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ngt196_)
 
 👋 Hello! I’m **Nguyễn Văn Trí**, known as **TGaDev** on GitHub. I’m passionate about game development and currently working with Unity. My goal is to become a professional game developer.
 
