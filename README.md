@@ -45,8 +45,8 @@
 ## 🌐 Connect with Me
 
 - **Email**: nguyenvantri19623@gmail.com
-- **Facebook**: [NguyenVanTriGDev](https://facebook.com/NguyenVanTriGDev)
-- **Instagram**: [\_ngt196_](https://instagram.com/_ngt196_)
+- **Facebook**: [Nguyen Van Tri](facebook.com/nguyen.van.tri.935503/)
+- **Instagram**: [\_ngt196_](instagram.com/_ngt196_)
 
 ## 📈 GitHub Stats
 
