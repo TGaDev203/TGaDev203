@@ -40,11 +40,11 @@
 
 ## 🎓 Education
 
-- **Hanoi University of Science and Technology**: Bachelor in Computer Science (Final Year).
+- **Hanoi University of Science and Technology**: Bachelor in Computer Science (Graduated).
 
 ## 🌐 Connect with Me
 
-- **Email**: hoangthuychimte@gmail.com
+- **Email**: nguyenvantri19623@gmail.com
 - **Facebook**: [NguyenVanTriGDev](https://facebook.com/NguyenVanTriGDev)
 - **Instagram**: [\_ngt196_](https://instagram.com/_ngt196_)
 
