@@ -1,5 +1,9 @@
 # Nguyễn Văn Trí (TGaDev)
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=0EA5E9&background=12352400&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+Tri's+Github+Profile!;I+love+making+games+with+Unity!;Open+for+collaborations!" alt="Typing SVG" />
+</h1>
+
 [![GitHub](https://img.shields.io/badge/GitHub-TGaDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TGaDev203)
 [![Facebook](https://img.shields.io/badge/Facebook-Nguyen%20Van%20Tri-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nguyen.van.tri.935503/)
 [![Instagram](https://img.shields.io/badge/Instagram-Nguyen%20Van%20Tri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ngt196_)
@@ -25,17 +29,15 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-### Operating Systems
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
 ## 🔭 Notable Projects
 
-### Coming Soon!
+- [**🎮 UnityGame-TheLast3D**](https://github.com/TGaDev203/UnityGame-TheLast3D) – A 3D horror game inspired by *Outlast*, focused on stealth and atmosphere.
+- [**🕹️ UnityGame-TAdventure2D**](https://github.com/TGaDev203/UnityGame-TAdventure2D) – A classic 2D platformer where you 🪙 collect coins, 🏃‍♂️ avoid enemies, and 🚩 complete levels.
+- [**🧱 UnityGame-PushBlockPuzzle2D**](https://github.com/TGaDev203/UnityGame-PushBlockPuzzle2D) – A 2D block-pushing puzzle game inspired by Sokoban, where your objective is to push boxes onto target points to solve each level.
 
 ## 💼 Experience
 
-- **Group Projects**: Collaborated on various university group projects, focusing on game development and software engineering.
+- **Group Projects**: Collaborated on various university group projects, focusing on game development.
 - **Personal Projects**: Independently explored and developed game projects to enhance skills and creativity in game development.
 
 ## 🎓 Education
@@ -57,3 +59,9 @@
 I aim to further develop my skills in game development, especially with Unity, and create unique and engaging game projects. I am always looking for opportunities to learn and collaborate in the field of game development.
 
 Thank you for visiting my profile! If you have any questions or wish to collaborate, feel free to reach out.
+
+## 🐍 Contribution Snake
+
+Just for fun – watch my GitHub contributions come to life 🐍
+
+![snake gif](https://raw.githubusercontent.com/TGaDev203/TGaDev203/output/github-contribution-grid-snake.svg)
