@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-TGaDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TGaDev203)
 [![Facebook](https://img.shields.io/badge/Facebook-Nguyen%20Van%20Tri-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nguyen.van.tri.935503/)
 [![Instagram](https://img.shields.io/badge/Instagram-Nguyen%20Van%20Tri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ngt196_)
-[![Telegram](https://img.shields.io/badge/Telegram-Anh%20Duc-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nguyenvantri19623)
+[![Telegram](https://img.shields.io/badge/Telegram-N%20T-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nguyenvantri19623)
 
 ---
 
