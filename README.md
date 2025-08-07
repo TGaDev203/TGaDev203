@@ -68,7 +68,7 @@ Bachelor of Computer Science – Troy University joint program (taught in Englis
 
 ## Contact
 
-- Email: nguyenvantri19623@gmail.com  
+- Email: [nguyenvantri19623@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=nguyenvantri19623@gmail.com)
 - Website: [tgadev203.github.io](https://tgadev203.github.io/)  
 - Facebook: [Nguyen Van Tri](https://facebook.com/nguyen.van.tri.935503/)  
 - Instagram: [@_ngt196_](https://instagram.com/_ngt196_)
