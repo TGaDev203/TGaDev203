@@ -21,7 +21,8 @@ jobs:
           github_user_name: TGaDev203
           outputs: |
             dist/github-contribution-grid-snake.svg
-          palette: "🐍#2c2f33,#3b4252,#4c566a,#81a1c1,#88c0d0"
+          palette: "🐍#88c0d0,#81a1c1,#4c566a,#3b4252,#2c2f33"
+          background: "#0d1117"
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
