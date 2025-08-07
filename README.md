@@ -9,59 +9,83 @@
 [![Instagram](https://img.shields.io/badge/Instagram-Nguyen%20Van%20Tri-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ngt196_)
 [![Telegram](https://img.shields.io/badge/Telegram-Anh%20Duc-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nguyenvantri19623)
 
-👋 Hi There! I’m **Nguyễn Văn Trí**. I’m passionate about game development and currently working with Unity. My goal is to become a professional game developer.
+---
 
-## 🛠 Skills
+## About Me
 
-### Main Programming Languages
+Hi there! I’m **Nguyễn Văn Trí**, a game developer passionate about designing and building interactive gameplay experiences.  
+Currently focused on Unity, I'm always exploring new ideas and polishing details to deliver the best player experience.
+
+**🌐 Portfolio**: [tgadev203.github.io](https://tgadev203.github.io/) – Personal website with my CV, games, and contact info.
+
+---
+
+## Skills
+
+### Programming Languages
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-### Tools and Technologies
+### Tools & Technologies
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 🔭 Notable Projects
+---
 
-- [**🎮 UnityGame-TheLast3D**](https://github.com/TGaDev203/UnityGame-TheLast3D) – A 3D horror game inspired by *Outlast*, focused on stealth and atmosphere.
-- [**🕹️ UnityGame-TAdventure2D**](https://github.com/TGaDev203/UnityGame-TAdventure2D) – A classic 2D platformer where you 🪙 collect coins, 🏃‍♂️ avoid enemies, and 🚩 complete levels.
-- [**🧱 UnityGame-PushBlockPuzzle2D**](https://github.com/TGaDev203/UnityGame-PushBlockPuzzle2D) – A 2D block-pushing puzzle game inspired by Sokoban, where your objective is to push boxes onto target points to solve each level.
+## Notable Projects
 
-## 💼 Experience
+| Project | Description |
+|--------|-------------|
+| [TheLast3D](https://github.com/TGaDev203/UnityGame-TheLast3D) | 3D mobile horror prototype in Unity 6 (URP). Focused on stealth, AI, and atmosphere. |
+| [TAdventure2D](https://github.com/TGaDev203/UnityGame-TAdventure2D) | Retro 2D platformer with pixel art, enemy AI, coin system. Solo project. |
+| [PushBlockPuzzle2D](https://github.com/TGaDev203/UnityGame-PushBlockPuzzle2D) | Grid-based puzzle game with block-pushing mechanics and level progression. |
 
-- **Group Projects**: Collaborated on various university group projects, focusing on game development.
-- **Personal Projects**: Independently explored and developed game projects to enhance skills and creativity in game development.
+> More projects are in progress and available on my [GitHub profile](https://github.com/TGaDev203).
 
-## 🎓 Education
+---
 
-- **Hanoi University of Science and Technology**: Bachelor in Computer Science (Graduated).
+## Experience
 
-## 🌐 Connect with Me
+- **University Projects**: Worked on multiple team-based projects as part of my CS program.
+- **Personal Projects**: Built and refined solo Unity games to grow skills in gameplay and UI.
+- **Exploration**: Always researching, iterating, and fine-tuning for better player experience.
 
-- **Email**: nguyenvantri19623@gmail.com
-- **Facebook**: [Nguyen Van Tri](https://facebook.com/nguyen.van.tri.935503/)
-- **Instagram**: [Nguyen Van Tri](https://instagram.com/_ngt196_)
+---
 
-## 📈 GitHub Stats
+## Education
+
+**Hanoi University of Science and Technology (HUST)**  
+Bachelor of Computer Science – Troy University joint program (taught in English)
+
+---
+
+## Contact
+
+- Email: nguyenvantri19623@gmail.com  
+- Website: [tgadev203.github.io](https://tgadev203.github.io/)  
+- Facebook: [Nguyen Van Tri](https://facebook.com/nguyen.van.tri.935503/)  
+- Instagram: [@_ngt196_](https://instagram.com/_ngt196_)
+
+---
+
+## GitHub Stats
 
 ![TGaDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=TGaDev203&show_icons=true&theme=radical)
 
-## 🚀 Future Goals
+---
 
-I aim to further develop my skills in game development, especially with Unity, and create unique and engaging game projects. I am always looking for opportunities to learn and collaborate in the field of game development.
-
-Thank you for visiting my profile! If you have any questions or wish to collaborate, feel free to reach out.
-
-## 🐍 Contribution Snake
-
-Just for fun – watch my GitHub contributions come to life 🐍
+## Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/TGaDev203/TGaDev203/output/github-contribution-grid-snake.svg)
+
+---
+
+> “Always learning, always building — one line of code at a time.”  
+> © 2025 TGaDev
