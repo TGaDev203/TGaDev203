@@ -4,10 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=0EA5E9&background=12352400&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+Tri's+Github+Profile!;I+love+making+games+with+Unity!;Open+for+collaborations!" alt="Typing SVG" />
 </h1>
 
+<div align="center">
+
 [![GitHub](https://img.shields.io/badge/%20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TGaDev203)
 [![Facebook](https://img.shields.io/badge/%20-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nguyen.van.tri.935503/)
 [![Instagram](https://img.shields.io/badge/%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ngt196_)
 [![Telegram](https://img.shields.io/badge/%20-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nguyenvantri19623)
+
+</div>
 
 ---
 
